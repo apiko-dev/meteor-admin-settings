@@ -1,7 +1,7 @@
 Package.describe({
   name: 'jss:admin-settings',
-  summary: 'Key value store for jss:admin',
-  version: '1.1.0',
+  summary: 'Key value store for yogiben:admin',
+  version: '1.1.1',
   git: 'https://github.com/JSSolutions/meteor-admin-settings'
 });
 
