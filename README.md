@@ -3,7 +3,7 @@ Meteor [Admin](https://github.com/yogiben/meteor-admin) Settings
 
 Adds page for key value stores in yogiben:admin dashboard.
 
-[![Meteor Icon](http://icon.meteor.com/package/jss:admin-settings)](https://atmospherejs.com/jss/meteor-admin-settings)
+[![Meteor Icon](http://icon.meteor.com/package/jss:admin-settings)](https://atmospherejs.com/jss/admin-settings)
 
 ## Setup
 
